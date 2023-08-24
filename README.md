@@ -1,1 +1,3 @@
+# Playground
 
+An example project
